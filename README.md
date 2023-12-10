@@ -5,6 +5,10 @@ _Desværre_ har jeg sat en event handler til at opfange at musen kører ind over
 
 ![](assets/2023-12-09-13-38-01.png)
 
+## Vejledning
+
+Læs [vejledningen](Vejledning.md) 
+
 ## Kilder
 
 * <https://www.w3schools.com/howto/howto_css_circles.asp>
