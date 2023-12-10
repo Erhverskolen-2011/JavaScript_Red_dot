@@ -1,6 +1,6 @@
 # Den Røde prik
 
-Demo af Dom med event fra javascript.
+Demo-projekt hvor browserens html-Dom bruges sammen med events fra javascript.
 
 Et simpelt "spil", hvor brugeren skal klikke med musen på en rød prik.
 
@@ -120,10 +120,11 @@ function dotMouseOver(event) {
 Dermed får jeg info i browserens console vindue, som hjælper mig med beslutte hvad jeg mere skal gøre, og om jeg er på rette spor
 
 Så snart jeg kører musen over den røde prik, 
+
 ![](assets/2023-12-10-20-00-14.png)
 
-Så kan se dette i console:
-![](assets/2023-12-10-20-06-40.png)
+Så kan se dette i console:  
+![](assets/2023-12-10-20-06-40.png)  
 Min kommando skriver "mus over prik", og derefter kommer hele `mouseevent` variablen.
 
 #### Punkt 2. Udregn nye koordinater
